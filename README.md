@@ -55,7 +55,7 @@ After the Process phase, the data was queried to identify tends and relationship
 
 ## Share
 
-To visually display the results of BigQuery, I used the 14-day trial of Tableau Cloud, and also created a PowerPoint to share the findings. (link PowerPoint)
+To visually display the results of BigQuery, I used the 14-day trial of Tableau Cloud, and also created a [PowerPoint](https://github.com/harmeetkgill/cyclistic-capstone-project/blob/main/Cyclistic.pptx) to share the findings.
 
 Here’s what was discovered:
 * Both members and casual riders prefer the classic bike or electric bike to the docked bike
