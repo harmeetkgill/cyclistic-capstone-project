@@ -39,7 +39,7 @@ Since this data has been provided by the company, it is considered “first part
 
 ## Process
 
-To process this data for analysis, I used Microsoft Excel, followed by Google BigQuery. Excel was used to quickly filter and sort data, checking for blanks or misspelled items. The bulk of this phase was completed in BigQuery. The completed code (with comments) is included in this repository. 
+To process this data for analysis, I used Microsoft Excel, followed by Google BigQuery. Excel was used to quickly filter and sort data, checking for blanks or misspelled items. The bulk of this phase was completed in BigQuery. The completed [code](https://github.com/harmeetkgill/cyclistic-capstone-project/blob/main/cyclistic-bigquery.sql) (with comments) is included in this repository. 
 
 A brief outline of the cleaning process is as follows:
 1.	Uploaded the raw CSV files to Google Cloud Storage
@@ -51,7 +51,7 @@ A brief outline of the cleaning process is as follows:
 
 ## Analyze
 
-After the Process phase, the data was queried to identify tends and relationships. The code for these queries can be found here. (hyperlink code) For this analysis, I compared the number and length of trips between members and casual riders to see if I could determine a noticeable difference. 
+After the Process phase, the data was queried to identify tends and relationships. The code for these queries can be found [here](https://github.com/harmeetkgill/cyclistic-capstone-project/blob/main/cyclistic-bigquery.sql). For this analysis, I compared the number and length of trips between members and casual riders to see if I could determine a noticeable difference. 
 
 ## Share
 
