@@ -23,7 +23,9 @@ Understand the difference between user types in order to devise a new marketing 
 
 #### Key Stakeholders
 Lily Moreno, Director of Marketing
+
 Marketing Analytics Team
+
 Executive Team: approves recommendations
 
 ## Prepare
@@ -32,7 +34,7 @@ Executive Team: approves recommendations
 The data has been downloaded from Motivate International Inc., made available under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 #### Identify how the data has been organized.
-The data is provided in standard CSV file format, with each file containing monthly data. For this case analysis, 12 months of data was used. There were some anomalies in the data, which were identified and removed in the Analyze phase.
+The data is provided in standard CSV file format, with each file containing monthly data. For this case analysis, 12 months of data was used. There were some anomalies in the data, which were identified and removed in the Process phase.
 
 #### Determine the credibility of the data.
 Since this data has been provided by the company, it is considered “first party data” that comes from a credible source.
