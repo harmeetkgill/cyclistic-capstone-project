@@ -29,7 +29,7 @@ Executive Team: approves recommendations
 ## Prepare
 
 #### Download the data and store it appropriately.
-The data has been downloaded from Motivate International Inc., made available under this [license.] (https://ride.divvybikes.com/data-license-agreement).
+The data has been downloaded from Motivate International Inc., made available under this [license.]: https://ride.divvybikes.com/data-license-agreement
 
 #### Identify how the data has been organized.
 The data is provided in standard CSV file format, with each file containing monthly data. For this case analysis, 12 months of data was used. There were some anomalies in the data, which were identified and removed in the Analyze phase.
