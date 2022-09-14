@@ -18,23 +18,23 @@ Three questions will guide the future marketing program:
 
 I have been assigned the first question: How do annual members and casual riders use Cyclistic bikes differently?
 
-Business Task
+#### Business Task
 Understand the difference between user types in order to devise a new marketing campaign aimed at converting casual riders into Cyclistic members.
 
-Key Stakeholders
+#### Key Stakeholders
 Lily Moreno, Director of Marketing
 Marketing Analytics Team
 Executive Team: approves recommendations
 
 ## Prepare
 
-Download the data and store it appropriately.
+#### Download the data and store it appropriately.
 The data has been downloaded from Motivate International Inc., made available under this license. (hyperlink data and license).
 
-Identify how the data has been organized.
+#### Identify how the data has been organized.
 The data is provided in standard CSV file format, with each file containing monthly data. For this case analysis, 12 months of data was used. There were some anomalies in the data, which were identified and removed in the Analyze phase.
 
-Determine the credibility of the data.
+#### Determine the credibility of the data.
 Since this data has been provided by the company, it is considered “first party data” that comes from a credible source.
 
 ## Process
@@ -68,12 +68,12 @@ Here’s what was discovered:
 
 ## Act
 
-Top three recommendations:
+#### Top three recommendations:
 •	Primary marketing campaigns should take place in the summer when most rides take place – this will be the prime opportunity to connect with casual riders
 •	Offer weekend-only or summer-only memberships to entice casual riders to become members during the time that is beneficial to them
 •	Offer student discounts for those who only commute Monday-Friday, but may only be working part-time, and not wanting to buy memberships for the whole week
 
-Next steps:
+#### Next steps:
 •	Look further into demographic data to see the age, occupation, income levels, etc. of all riders to see if there are underlying differences between members and casual riders
 •	Conduct customer surveys with specific questions – this will provide better insight into cycling habits and preferences
 •	Compare data pre-, post-, and during the COVID-19 pandemic to see if attitudes towards bike-sharing have changed
